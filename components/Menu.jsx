@@ -4,14 +4,14 @@ import { BsChevronDown } from "react-icons/bs";
 
 
 const data = [
-    { id: 1, name: "Hole", url: "/" },
+    { id: 1, name: "Home", url: "/" },
     { id: 2, name: "About", url: "/" },
     { id: 3, name: "Categories", subMenu: true },
    { id: 4, name: "Contact", url: "/" },
 ];
 
 const subMenuData = [
-    { id: 1, name: "Pants", doc_count: 11 },
+    { id: 1, name: "Pants", doc_count: 2333 },
     { id: 2, name: "Shoes", doc_count: 8 },
     { id: 3, name: "Jackets", doc_count: 64 },
     { id: 4, name: "T-shirts", doc_count: 107 },
