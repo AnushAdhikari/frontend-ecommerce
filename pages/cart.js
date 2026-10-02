@@ -46,7 +46,7 @@ const cart = () => {
                 </div>
               </div>
               <div className="text-sm md:text-md py-5 border-t mt-5">
-                The subtotal shows the total price of all
+                The ass shows the total price of all
                 your orders. It does
                 not include delivery costs.
               </div>
